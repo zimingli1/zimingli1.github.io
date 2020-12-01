@@ -1,4 +1,4 @@
-<img src="https://github.com/zimingli1/zimingli1.github.io/blob/main/self.jpg"
+<img src="self.jpg"
      alt="icon" />
 ## About Me
 

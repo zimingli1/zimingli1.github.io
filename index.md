@@ -1,7 +1,7 @@
-email: "ziming.li@stonybrook.com"
-facebook: https://www.facebook.com/ziming.li.56/
-github: https://github.com/zimingli1
-linkedin: https://www.linkedin.com/in/ziming-li-589b041a0/
+##### email: "ziming.li@stonybrook.com"
+##### facebook: https://www.facebook.com/ziming.li.56/
+##### github: https://github.com/zimingli1
+##### linkedin: https://www.linkedin.com/in/ziming-li-589b041a0/
 
 <img src="self.jpg"
      alt="icon" />

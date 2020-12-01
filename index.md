@@ -6,6 +6,9 @@ You can use the [editor on GitHub](https://github.com/zimingli1/zimingli1.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### RESUME
+<embed src="https://github.com/zimingli1/zimingli1.github.io/blob/main/Ziming%20-%20Resume.pdf" width="800px" height="2100px" />
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

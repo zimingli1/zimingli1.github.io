@@ -12,17 +12,25 @@ I'm a college student at Stony Brook University majoring in computer science. Wi
      * Used 2D Array for constructing a visual plane in Javafx.
      * Implemented multithreads in Java when started gaming.
      * Constructed a leaderboard that records top 10 players’ names and gaming points with Property Class, using Input and Output Streams to load and save status.
-     <img src="Snake5.png" alt="snake5" width="50%" display: inline>
-     <img src="Snake3.png" alt="snake3" width="50%" display: inline>
-     <img src="Snake2.png" alt="snake2" width="50%" display: inline>
-     <img src="Snake4.png" alt="snake4" width="50%" display: inline>
+     <div style="white-space: nowrap;">
+     <img src="Snake5.png" alt="snake5" width="50%">
+     <img src="Snake3.png" alt="snake3" width="50%">
+     <img src="Snake2.png" alt="snake2" width="50%">
+     <img src="Snake4.png" alt="snake4" width="50%">
+     </div>
 * ### Digital Clock
      * Assembled electrical components in chips.
      * Used C programming to simulate algorithms of clock lights patterns.
-     <img src="Snake6.jpg" alt="snake6" width="50%" display: inline>
-     <img src="Snake7.jpg" alt="snake7" width="50%" display: inline>
+     <div style="white-space: nowrap;">
+     <img src="Snake6.jpg" alt="snake6" width="50%">
+     <img src="Snake7.jpg" alt="snake7" width="50%">
+     </div>
 
-
+## Technical Communication Project
+* ### User Instruction
+     * <embed src="User Instruction Final Draft - Fold A Paper Box.pdf" width="100%" height="800px" type="application/pdf">
+* ### Press Release
+     * <embed src="Press Release Final Draft.pdf" width="100%" height="800px" type="application/pdf">
 
 ### Markdown
 

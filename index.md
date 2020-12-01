@@ -1,3 +1,5 @@
+<img src="https://github.com/zimingli1/zimingli1.github.io/blob/main/self.jpg"
+     alt="icon" />
 ## About Me
 
 I'm a college student at Stony Brook University majoring in computer science. With two years of learning experiences, I have gained excellent skills of management for both knowledge and time. My favorite data structure and analyses of algorithms help me develop a bunch of projects. I recently found out that data analysis is really a useful and necessary technique together with fields in computer science. Right now I'm developing more projects related to data science, and I aim to become a specialist of artificial intelligence and data science in the future.

@@ -15,6 +15,8 @@ I'm a college student at Stony Brook University majoring in computer science. Wi
      <div style="white-space: nowrap;">
      <img src="Snake5.png" alt="snake5" width="50%">
      <img src="Snake3.png" alt="snake3" width="50%">
+     </div>
+     <div style="white-space: nowrap;">
      <img src="Snake2.png" alt="snake2" width="50%">
      <img src="Snake4.png" alt="snake4" width="50%">
      </div>

@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/zimingli1/zimingli1.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### RESUME
-<embed src="https://drive.google.com/file/d/16JxIMOYw9WsFerf6qxTSlieymKm7Yke9/view?usp=sharing" width="500" height="375" 
+<embed src="https://github.com/zimingli1/zimingli1.github.io/blob/main/Ziming_Resume.pdf" width="500" height="375" 
  type="application/pdf">
 
 ### Markdown

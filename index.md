@@ -9,6 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### RESUME
 <embed src="https://github.com/zimingli1/zimingli1.github.io/blob/main/Ziming_Resume.pdf" width="500" height="375" 
  type="application/pdf">
+ 
+ <a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+ <a href="https://github.com/zimingli1/zimingli1.github.io/blob/main/Ziming_Resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 ### Markdown
 

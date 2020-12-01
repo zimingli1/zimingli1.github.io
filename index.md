@@ -4,12 +4,25 @@
 
 I'm a college student at Stony Brook University majoring in computer science. With two years of learning experiences, I have gained excellent skills of management for both knowledge and time. My favorite data structure and analyses of algorithms help me develop a bunch of projects. I recently found out that data analysis is really a useful and necessary technique together with fields in computer science. Right now I'm developing more projects related to data science, and I aim to become a specialist of artificial intelligence and data science in the future.
 
-You can use the [editor on GitHub](https://github.com/zimingli1/zimingli1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### RESUME
+## RESUME
 <embed src="Ziming_Resume.pdf" width="100%" height="800px" type="application/pdf">
+
+## Projects
+* ### Snake
+     * Used 2D Array for constructing a visual plane in Javafx.
+     * Implemented multithreads in Java when started gaming.
+     * Constructed a leaderboard that records top 10 players’ names and gaming points with Property Class, using Input and Output Streams to load and save status.
+     <img src="Snake5.png" alt="snake5" width="70%">
+     <img src="Snake3.png" alt="snake3" width="70%">
+     <img src="Snake2.png" alt="snake2" width="70%">
+     <img src="Snake4.png" alt="snake4" width="70%">
+* ### Digital Clock
+     * Assembled electrical components in chips.
+     * Used C programming to simulate algorithms of clock lights patterns.
+     <img src="Snake6.jpg" alt="snake6" width="70%">
+     <img src="Snake7.jpg" alt="snake7" width="70%">
+
+
 
 ### Markdown
 

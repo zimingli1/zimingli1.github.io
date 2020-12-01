@@ -12,15 +12,15 @@ I'm a college student at Stony Brook University majoring in computer science. Wi
      * Used 2D Array for constructing a visual plane in Javafx.
      * Implemented multithreads in Java when started gaming.
      * Constructed a leaderboard that records top 10 players’ names and gaming points with Property Class, using Input and Output Streams to load and save status.
-     <img src="Snake5.png" alt="snake5" width="70%">
-     <img src="Snake3.png" alt="snake3" width="70%">
-     <img src="Snake2.png" alt="snake2" width="70%">
-     <img src="Snake4.png" alt="snake4" width="70%">
+     <img src="Snake5.png" alt="snake5" width="50%" display: inline>
+     <img src="Snake3.png" alt="snake3" width="50%" display: inline>
+     <img src="Snake2.png" alt="snake2" width="50%" display: inline>
+     <img src="Snake4.png" alt="snake4" width="50%" display: inline>
 * ### Digital Clock
      * Assembled electrical components in chips.
      * Used C programming to simulate algorithms of clock lights patterns.
-     <img src="Snake6.jpg" alt="snake6" width="70%">
-     <img src="Snake7.jpg" alt="snake7" width="70%">
+     <img src="Snake6.jpg" alt="snake6" width="50%" display: inline>
+     <img src="Snake7.jpg" alt="snake7" width="50%" display: inline>
 
 
 
